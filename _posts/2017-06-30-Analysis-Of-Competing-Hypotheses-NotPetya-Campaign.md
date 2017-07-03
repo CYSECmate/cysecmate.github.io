@@ -22,10 +22,10 @@ In *Threat Intelligence*, an analyst will have/need to perform assessments with 
 ACH methodology is supposed to correct this issue and help analysts to understand what is most likely.
  
 The first step is to come up with hypotheses (they don't cover 100% of all possibilities but they are a good start):
-H1 - A sophisticated financially motivated cybercriminal (group)
-H2 - An unsophisticated financially motivated cybercriminal (group)
-H3 - A nation state or state affiliated organisation crime tending to cause a disruption in Ukraine
-H4 - A nation state or state affiliated organisation crime tending to cause a worldwide disruption
+* H1 - A sophisticated financially motivated cybercriminal (group)
+* H2 - An unsophisticated financially motivated cybercriminal (group)
+* H3 - A nation state or state affiliated organisation crime tending to cause a disruption in Ukraine
+* H4 - A nation state or state affiliated organisation crime tending to cause a worldwide disruption
  
 Next, high and medium level evidences need to be collected for and against those hypotheses:
  
@@ -84,3 +84,8 @@ Plenty of other hypotheses can be used to enhance this model and increase confid
 According to this result and the **data-information-knowledge available at this time**, we can see that a nation state or state affiliated organisation crime tending to cause a disruption in Ukraine is the most plausible scenario.
  
 If any disagreement about the result, or any feedback regarding the scoring-workflow, I would be happy to exchange about it.
+
+
+*### References*
+https://sroberts.github.io/2016/12/12/rnc-hack/
+https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/
