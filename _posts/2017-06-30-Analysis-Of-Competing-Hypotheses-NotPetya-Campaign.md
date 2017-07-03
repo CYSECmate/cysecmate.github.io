@@ -70,7 +70,7 @@ Then, a matrix needs to be created analysing each evidence against every hypothe
  
 For this purpose, we will use this scoring:
 
-![ACH-scoring-petya.jpg]({{ "ACH-scoring-petya.jpg" | prepend: imagedir}}){:height="200px" width="300px"}  
+![ACH-scoring-petya.jpg]({{ "ACH-scoring-petya.jpg" | prepend: imagedir}}){:height="165px" width="250px"}  
 
 And the matrix is ...
 
