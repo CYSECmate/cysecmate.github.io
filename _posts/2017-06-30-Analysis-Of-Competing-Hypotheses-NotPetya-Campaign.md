@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analysis of Competing Hypotheses - NotPetya (Ransomware) Campaign
-published: false
+published: true
 date: 2017-06-30 18:45:35
 categories: [Ransomware, Wiper, Petya, NotPetya, Malware, Campaign, ACH]
 ---
