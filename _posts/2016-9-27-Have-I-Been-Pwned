@@ -1,0 +1,36 @@
+---
+layout: post
+title: Have I been Pwned ?
+published: false
+date: 2016-09-27 17:45:35
+categories: [Vulnerability, Windows, Firewall]
+
+---
+
+{% assign imagedir = "/images/" | prepend: site.baseurl | prepend: site.url   %}
+
+
+
+
+Over the last few years, hundreds of millions of credentials have been stolen from organisations and made public on internet.
+
+The biggest data breach in history has just been announced a week ago by Yahoo the giant.
+
+According to them, the hack took place in 2014 and revealed personal user data like names, birth date, encrypted password, emails, etc.
+
+
+What makes user afraid about their data makes also companies afraid. 
+Indeed, as everybody knows, numerous users use their company email address or/and password on each account on internet.
+
+What will happen if a bad guy bruteforce hundreds of user account picked up on internet with the same password ?
+
+
+
+
+Have I Been Pwned is a website created by Troy Hunt in 2013 and allows users to check if their personal data has been leaked on internet by a data breach.
+
+At the moment, this website use 145 data breaches and contains 1,450,960,287 accounts pwned and leaked on internet. 
+
+It was meant to be used for a specific address 
+
+ 

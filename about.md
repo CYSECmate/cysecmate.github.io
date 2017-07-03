@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 <img align="right" src="http://cysecmate.com/images/about.png" width="30%" height="30%" alt="me">
 
 Thanks for visiting my site! My name is Alexis Coupe, and this is my weblog about various technical subjects and the occasional personal topic.
@@ -29,3 +35,4 @@ I'm currently working as Cyber Defense Investigator - hunting bad guys, improve 
 ### Contact Me
 
 Please feel free to provide any feedback by commenting on posts or by sending me an email cysecmate[at]gmail[dot]com.
+
