@@ -86,7 +86,7 @@ According to this result and the **data-information-knowledge available at this 
 If any disagreement about the result, or any feedback regarding the scoring-workflow, I would be happy to exchange about it.
 
 **References**
-* ([https://sroberts.github.io/2016/12/12/rnc-hack/](https://sroberts.github.io/2016/12/12/rnc-hack/)
-* ([https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/](https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/)
-* ([https://www.digitalshadows.com/blog-and-research/leak-on-aisle-12-an-analysis-of-competing-hypotheses-for-the-tesco-bank-incident/](https://www.digitalshadows.com/blog-and-research/leak-on-aisle-12-an-analysis-of-competing-hypotheses-for-the-tesco-bank-incident/)
+* *[https://sroberts.github.io/2016/12/12/rnc-hack/](https://sroberts.github.io/2016/12/12/rnc-hack/)*
+* *[https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/](https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/)*
+* *[https://www.digitalshadows.com/blog-and-research/leak-on-aisle-12-an-analysis-of-competing-hypotheses-for-the-tesco-bank-incident/](https://www.digitalshadows.com/blog-and-research/leak-on-aisle-12-an-analysis-of-competing-hypotheses-for-the-tesco-bank-incident/)*
 
