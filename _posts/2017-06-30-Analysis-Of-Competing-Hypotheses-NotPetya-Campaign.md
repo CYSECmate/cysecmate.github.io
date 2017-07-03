@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analysis of Competing Hypotheses - NotPetya (Ransomware) Campaign
-published: false
+published: true
 date: 2017-06-30 18:45:35
 categories: [Ransomware, Wiper, Petya, NotPetya, Malware, Campaign, ACH]
 ---
@@ -84,3 +84,9 @@ Plenty of other hypotheses can be used to enhance this model and increase confid
 According to this result and the **data-information-knowledge available at this time**, we can see that a nation state or state affiliated organisation crime tending to cause a disruption in Ukraine is the most plausible scenario.
  
 If any disagreement about the result, or any feedback regarding the scoring-workflow, I would be happy to exchange about it.
+
+*References*
+* https://sroberts.github.io/2016/12/12/rnc-hack/
+* https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/
+* https://www.digitalshadows.com/blog-and-research/leak-on-aisle-12-an-analysis-of-competing-hypotheses-for-the-tesco-bank-incident/
+
