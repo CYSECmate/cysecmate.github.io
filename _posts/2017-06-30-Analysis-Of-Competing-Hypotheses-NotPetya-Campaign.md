@@ -13,7 +13,7 @@ After *Wannacry* spreading around the world looking to use NSA exploit known as 
 
 According to numerous researches and evidences, this campaign might not be just a ransomware ... but *a wiper* ... 
  
-Having said that, I wanted to prove this theory following the well-known methodology (["Analysis of Competing Hypotheses" (ACH)](http://competinghypotheses.org/docs/The_ACH_Methodology_and_Its_Purpose).
+Having said that, I wanted to prove this theory following the well-known methodology ["Analysis of Competing Hypotheses" (ACH)](http://competinghypotheses.org/docs/The_ACH_Methodology_and_Its_Purpose).
 
 So, this post is not about technical evidences, fancy decompilation, but instead will try to follow this method and conclude on which hypotheses is the most plausible.
  
