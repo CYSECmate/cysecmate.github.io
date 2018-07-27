@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/acoupe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cysecmate.com
+  * I am acoupe (https://keybase.io/acoupe) on keybase.
+  * I have a public key ASAJafAajIOAA055yZor0g7pnWOEWejHZmdZ0HFf5yWClwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200969f01a8c8380034e79c99a2bd20ee99d638459e8c7666759d0715fe72582970a",
+      "host": "keybase.io",
+      "kid": "01200969f01a8c8380034e79c99a2bd20ee99d638459e8c7666759d0715fe72582970a",
+      "uid": "10184f8aba485ed80239b26fa38c1e19",
+      "username": "acoupe"
+    },
+    "merkle_root": {
+      "ctime": 1532669024,
+      "hash": "cc491d6f1b4bf9ea0bafac6d9893528441a01714aee5e045782487e6c854018ba34019be0d618744a9c9f90579914fcaae67590d6460a85083b89b65014e6bd8",
+      "hash_meta": "f4429db2615a1dc0387e989b0d8ca5e8cf3f164ad7f63deac9f1f192f6d0938d",
+      "seqno": 3343045
+    },
+    "service": {
+      "entropy": "c4UN/5viNpfkOaJUamZzCwWl",
+      "hostname": "cysecmate.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532669089,
+  "expire_in": 504576000,
+  "prev": "4369c452fa08e845f42519d1ba05b2eb7d5134261ca4ce94f55893749bf01887",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCWnwGoyDgANOecmaK9IO6Z1jhFnox2ZnWdBxX+clgpcKp3BheWxvYWTESpcCEMQgQ2nEUvoI6EX0JRnRugWy631RNCYcpM6U9ViTdJvwGIfEIG6+Ix8YL3XzeWkgNWb9kxvsTUmTVbaSNNpCL5NVfr1FAgHCo3NpZ8RAMc3t/mH9GGb5K44C3zseJ3emFxxEbOJFiyiKuqezyQ5mcbjxL0YRU7l3ypxJfbbphrgqMnSInyB/BAPCT3msDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMcv4Wl/Vcsf9q1aqc1W9oYruoOTbChR1xMMRdiabzLro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acoupe
+
+==================================================================
